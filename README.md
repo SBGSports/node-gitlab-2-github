@@ -1,3 +1,6 @@
+# Used to import MR's into Github
+import mr/pr and other information into Github as this data is not imported by github import.
+
 # node-gitlab-2-github
 
 ## Install
